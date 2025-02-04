@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pandas
+numpy
+sqlalchemy
+psycopg2
+nflfastpy
+joblib
+pydantic
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+lightgbm
+keras
+shap
+streamlit
